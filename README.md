@@ -42,6 +42,8 @@ ___
   2.[twilio sdk](https://pypi.org/project/twilio/) for python3
   
   3.[dotenv module](https://pypi.org/project/dotenv/) of python3
+  
+   [click here to see other requirements]("requirement.txt")
   ___
   
   <h4> To run the script enter the following commands in the terminal </h4>
