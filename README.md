@@ -1,3 +1,4 @@
+___
 # automated_whatsapp_notifier
 <img src = "img/python.jpeg"
 height = "100px"
@@ -41,6 +42,7 @@ ___
   2.[twilio sdk](https://pypi.org/project/twilio/) for python3
   
   3.[dotenv module](https://pypi.org/project/dotenv/) of python3
+  ___
   
   <h4> To run the script enter the following commands in the terminal </h4>
   
@@ -49,4 +51,4 @@ ___
   2.`cd automated_whatsapp_notifier` 
   
   3.`python3 main.py`
-  
+  ___
