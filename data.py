@@ -12,5 +12,4 @@ thursday = [{'type':'lab','start_hour':10,'start_mint':00,'end_hour': 12,'end_mi
 friday = [{'type': 'Normal', 'start_hour': 9,'start_mint':00, 'end_hour': 10,'end_mint':50, 'class_info': "Discreat Mathamatics class by CG sir . Class link : https://meet.google.com/hhk-qaax-uzj "},
 			{'type': 'Normal', 'start_hour': 11,'start_mint':00, 'end_hour': 12,'end_mint':50, 'class_info': "Signals and system class by SPM sir . Class link : https://meet.google.com/pnt-zcah-pfv "},
 			{'type': 'Normal', 'start_hour': 14,'start_mint':30, 'end_hour': 16,'end_mint':20, 'class_info': "Data structure class by Ib sir . Class link : https://meet.google.com/dbv-atrc-ufo "}]
-day = friday
-message = f"you have a {day[0]['type']} class starting from {day[0]['start_hour']}:{day[0]['start_mint']} .The class info is : {day[0]['class_info']}"
+numbers = [] # fill it with the numbers u wanted to send notifications
