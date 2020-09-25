@@ -42,7 +42,7 @@ ___
   
   3.[dotenv module](https://pypi.org/project/dotenv/) of python3
   
-  <h4> To run follow the folloing commands in the terminal </h4>
+  <h4> To run the script enter the following commands in the terminal </h4>
   
   1.`git clone https://github.com/debojeetjha10/automated_whatsapp_notifier.git`
   
