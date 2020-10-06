@@ -3,7 +3,10 @@ To update the schedule of a  specific day in the code update the list of dictona
 then in the update.py file replace the import day.
 for example if you update monday the 1st line of update.py
 
-write that as `from data import  monday as day`
+write that as 
+```python
+from data import  monday as day
+```
 ## Update Numbers 
 <b>run the code </b>
 
