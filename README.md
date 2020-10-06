@@ -48,10 +48,12 @@ ___
   
   <h4> To run the script enter the following commands in the terminal </h4>
   
-  1.`git clone https://github.com/debojeetjha10/automated_whatsapp_notifier.git`
+  ```bash
+  git clone https://github.com/debojeetjha10/automated_whatsapp_notifier.git
   
-  2.`cd automated_whatsapp_notifier` 
+  cd automated_whatsapp_notifier 
   
-  3.`python3 main.py`
+  python3 main.py
+  ```
   ___
 <p align = "middle" > <a href = "mailto:debojeetjha@gmail.com">email me</p>
