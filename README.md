@@ -43,7 +43,7 @@ ___
   
   3.[dotenv module](https://pypi.org/project/dotenv/) of python3
   
-   [click here to see other requirements]("requirement.txt")
+   [click here]("requirement.txt") to see other requirements.
   ___
   
   <h4> To run the script enter the following commands in the terminal </h4>
