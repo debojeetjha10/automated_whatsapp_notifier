@@ -16,7 +16,7 @@ weidth = 100px
 alt = "twilio logo"
 title = "twilio">
 ___
-## How It Works
+# How It Works
 This python script fetches data from the pickled files of data and send notification in your whasapp at the time of online class using the [twilio api](https://www.twilio.com/).
 ## Technologies used
 1.Restful api
@@ -28,7 +28,7 @@ This python script fetches data from the pickled files of data and send notifica
 4.SDK of twilio
 
 ___
-## some key points to know.
+# some key points to know.
 1. To use this script you will need the auth_token and account_sid of [twilio](https://www.twilio.com/), login into your account and puth them in the [.env](.env) file.
 2. Update the numbers pickle file with [update.py](update.py)
 
@@ -43,7 +43,7 @@ ___
   
   3.[dotenv module](https://pypi.org/project/dotenv/) of python3
   
-   [click here]("requirement.txt") to see other requirements.
+  [click here]("requirement.txt") to see other requirements.
   ___
   
   <h4> To run the script enter the following commands in the terminal </h4>
@@ -55,5 +55,10 @@ ___
   
   python3 main.py
   ```
+
+
   ___
+
+
+
 <p align = "middle" > <a href = "mailto:debojeetjha@gmail.com">email me</p>
